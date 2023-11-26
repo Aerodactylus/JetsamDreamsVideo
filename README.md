@@ -1,4 +1,4 @@
-# Vieo Generator for Jetsam Dreams
+# Video Generator for Jetsam Dreams
 
 This repository contains IPython notebooks that were used to create video content for the album *Jetsam Dreams* by *Aerodactylus*. The resulting video can be viewed [here on YouTube](https://youtu.be/vkKwFKCnxnw). 
 
